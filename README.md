@@ -1,7 +1,7 @@
 # Hi there 👋
-## Profile Info
-### IMAGE LINK - https://avatars.alphacoders.com/avatars/view/378728
-### ARTIST LINK - https://alphacoders.com/users/profile/291633/QuantumCurator
+## &emsp; Profile Info
+### &emsp; &emsp; IMAGE LINK - https://avatars.alphacoders.com/avatars/view/378728
+### &emsp; &emsp; ARTIST LINK - https://alphacoders.com/users/profile/291633/QuantumCurator
 
 <!--
 **YeDragon1226/YeDragon1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
