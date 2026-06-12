@@ -1,16 +1,32 @@
-# YeDragon1226 🎮
-&emsp; <b>Profile Info</b>
-* &emsp; &emsp; IMAGE LINK - https://avatars.alphacoders.com/avatars/view/378728
-* &emsp; &emsp; ARTIST LINK - https://alphacoders.com/users/profile/291633/QuantumCurator
+<h1 align=center>YeDragon1226 🎮</h1>
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=2000&pause=5000&color=AAD2F7&center=true&vCenter=true&width=470&lines=Life+Is+A+Game%2C+Make+Every+Action+Count" alt="Typing SVG" /></a>
+</div>
+  
+<p>
+I am a student nearly finishing my college. Currently learning more skills and making projects. Developing my skills in planning to efficiently plan more ideas and development to output better projects.
+</p>
 
-<p align="left">
+### 🔭 I’m currently working on
+<p align=center>Getting certificates and developing some projects.</p>
+
+### 🌱 I’m currently learning
+<p align=center>Game Development.</p>
+
+
+ ### Profile Info
+* IMAGE LINK - https://avatars.alphacoders.com/avatars/view/378728
+* ARTIST LINK - https://alphacoders.com/users/profile/291633/QuantumCurator
+
+
+<div style="display: flexbox;">
   <a href="https://github.com/YeDragon1226?tab=followers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/YeDragon1226?color=ccccff&style=for-the-badge&labelColor=aaaaff&logo=people"/>
   </a>
   <a href="https://github.com/YeDragon1226?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YeDragon1226?color=ffbbaa&style=for-the-badge&labelColor=ffaa88&logo=star"/>
   </a>
-</p>
+</div>
 
 ---
 
@@ -63,8 +79,7 @@
 <!--
 **YeDragon1226/YeDragon1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
