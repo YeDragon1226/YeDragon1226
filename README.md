@@ -18,16 +18,6 @@ I am a student nearly finishing my college. Currently learning more skills and m
 * IMAGE LINK - https://avatars.alphacoders.com/avatars/view/378728
 * ARTIST LINK - https://alphacoders.com/users/profile/291633/QuantumCurator
 
-
-<div style="display: flexbox;">
-  <a href="https://github.com/YeDragon1226?tab=followers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/YeDragon1226?color=ccccff&style=for-the-badge&labelColor=aaaaff&logo=people"/>
-  </a>
-  <a href="https://github.com/YeDragon1226?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YeDragon1226?color=ffbbaa&style=for-the-badge&labelColor=ffaa88&logo=star"/>
-  </a>
-</div>
-
 ---
 
 ### Web Languages, Frameworks and Tools
@@ -74,6 +64,21 @@ I am a student nearly finishing my college. Currently learning more skills and m
 <div style="display: flexbox;">
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />      
+</div>
+
+---
+
+<div align=center>
+  <a href="https://github.com/YeDragon1226?tab=followers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/YeDragon1226?color=ccccff&style=for-the-badge&labelColor=aaaaff&logo=people"/>
+  </a>
+  <a href="https://github.com/YeDragon1226?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YeDragon1226?color=ffbbaa&style=for-the-badge&labelColor=ffaa88&logo=star"/>
+  </a>
+</div>
+
+<div align=center>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YeDragon1226&theme=sakura-x&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 <!--
