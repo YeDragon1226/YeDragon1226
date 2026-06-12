@@ -1,10 +1,10 @@
-<h1 align=center>YeDragon1226 🎮</h1>
+<h1 align=center>ＹＥＤＲＡＧＯＮ１２２６ 🎮</h1>
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=2000&pause=5000&color=AAD2F7&center=true&vCenter=true&width=470&lines=Life+Is+A+Game%2C+Make+Every+Action+Count" alt="Typing SVG" /></a>
 </div>
   
 <p>
-I am a student nearly finishing my college. Currently learning more skills and making projects. Developing my skills in planning to efficiently plan more ideas and development to output better projects.
+𝐈 𝐚𝐦 𝐚 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐧𝐞𝐚𝐫𝐥𝐲 𝐟𝐢𝐧𝐢𝐬𝐡𝐢𝐧𝐠 𝐦𝐲 𝐜𝐨𝐥𝐥𝐞𝐠𝐞. 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐦𝐨𝐫𝐞 𝐬𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐦𝐚𝐤𝐢𝐧𝐠 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬. 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐦𝐲 𝐬𝐤𝐢𝐥𝐥𝐬 𝐢𝐧 𝐩𝐥𝐚𝐧𝐧𝐢𝐧𝐠 𝐭𝐨 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭𝐥𝐲 𝐩𝐥𝐚𝐧 𝐦𝐨𝐫𝐞 𝐢𝐝𝐞𝐚𝐬 𝐚𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐭𝐨 𝐨𝐮𝐭𝐩𝐮𝐭 𝐛𝐞𝐭𝐭𝐞𝐫 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
 </p>
 
 ### 🔭 I’m currently working on
